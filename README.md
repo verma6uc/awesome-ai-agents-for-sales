@@ -44,7 +44,7 @@ Fully autonomous agents that handle end-to-end outbound prospecting.
 | [Conversica](https://www.conversica.com/) | Revenue Digital Assistants hold two-way email and SMS conversations to qualify and hand off leads. | Contact sales |
 | [Hermes](https://www.buildwithhermes.com/) | White-label AI voice agent platform for agencies. Runs outbound and inbound calling campaigns with built-in CRM and per-client billing. | $149/mo+ |
 | [Jason AI (Reply.io)](https://reply.io/jason-ai/) | AI assistant for multi-channel outreach sequences. | Included with Reply.io |
-| [Mach GTM](https://machgtm.com) | AI outbound sales agent for B2B software teams (SaaS, IT services, AI services). Builds a Brain from your case studies, finds buying-signal leads, researches each prospect with source-verified facts, and drafts personalised email/LinkedIn/WhatsApp outreach. Every message requires human approval. Open-source MCP server available. | From $1k/seat |
+| [MachGTM](https://machgtm.com/product) | Sales workspace for software and services teams, with seller context, account research, outreach drafts and connected conversations. Playbook review modes are configurable. [Hosted connector and local-helper scope](https://machgtm.com/blog/mcp-server-sales-prospecting). | [Design-partner terms](https://machgtm.com/pricing) |
 | [Nooks](https://www.nooks.ai/) | AI dialer plus AI SDR agents for parallel dialing, prospect research, and call coaching. | Contact sales |
 | [Qualified (Piper)](https://www.qualified.com/) | Piper the AI SDR works inbound: engages website visitors, qualifies, and books meetings 24/7. | Contact sales |
 | [Relevance AI](https://relevanceai.com/) | Build and deploy custom AI sales agents with no-code. | Free tier available |
@@ -298,6 +298,8 @@ Build your own AI sales agents with these frameworks.
 | [Vercel AI SDK](https://ai-sdk.dev/) | Unified TypeScript SDK for streaming, tool calling, and multi-model apps. | Web apps |
 
 ## Research & Reports
+
+- [AI SDR pilot scorecard](https://machgtm.com/blog/ai-sdr-pilot-scorecard) — Proposed evaluation with evidence rows, explicit denominators and full cost. Published by MachGTM.
 
 Industry research on AI in sales.
 
